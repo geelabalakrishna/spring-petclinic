@@ -46,9 +46,9 @@
     </dependency>
 
     <dependency>
-    <groupId>org.jenkins-ci.plugins</groupId>
-    <artifactId>sonar-quality-gates</artifactId>
-    <version>328.vf4369b_da_d3c2</version>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>sonar-quality-gates</artifactId>
+      <version>328.vf4369b_da_d3c2</version>
     </dependency>
     
     <dependency>
